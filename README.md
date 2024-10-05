@@ -1,6 +1,6 @@
 Projeto Biblíoteca feito em Java, usando Mysql 
 
-Com crição do banco de dados abaixo e as tabelas para o correto funcionandomento:
+Com criação do banco de dados abaixo e as tabelas para o correto funcionandomento:
 CREATE DATABASE biblioteca;
 USE biblioteca;
 
