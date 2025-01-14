@@ -1,4 +1,6 @@
-Projeto Biblíoteca feito em Java, usando Mysql 
+Projeto Biblíoteca feito em Java, usando Mysql, e rodando no Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
+Version: 2023-12 (4.30.0)
+Build id: 20231201-2043
 
 Com criação do banco de dados abaixo e as tabelas para o correto funcionandomento:
 CREATE DATABASE biblioteca;
