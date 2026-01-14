@@ -3,8 +3,8 @@ Version: 2023-12 (4.30.0)
 Build id: 20231201-2043
 
 
-Depois de baixar o projeto vá em ConexaoDB.java - insira seu usuario e senha mysql
-Com criação do banco de dados abaixo e as tabelas para o correto funcionandomento:
+Depois de baixar o projeto vá em ConexaoDB.java - insira seu usuario e senha mysql,
+depois crie o banco de dados e as tabelas para o correto funcionandomento:
 CREATE DATABASE biblioteca;
 USE biblioteca;
 
